@@ -71,4 +71,5 @@ addEventListener(
     }
 )
 ```
+### 修改版作者地址：https://github.com/ygtsj/Heroku-xray-trojangows-ssws
 ### 原作者项目地址：https://github.com/mixool/xrayku
